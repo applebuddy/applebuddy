@@ -28,12 +28,12 @@
 ## Activity
 
 - 현업 프로젝트
-  - ('2023. 03. ~ ing) [오늘의집 iOS앱](https://apps.apple.com/kr/app/%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-%EB%9D%BC%EC%9D%B4%ED%94%84%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%8A%88%ED%8D%BC%EC%95%B1/id1008236892) 개발 및 운영
+  - ('2023. 03. ~) [오늘의집 iOS앱](https://apps.apple.com/kr/app/%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-%EB%9D%BC%EC%9D%B4%ED%94%84%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%8A%88%ED%8D%BC%EC%95%B1/id1008236892) 개발 및 운영
   - ('2022. 07. ~ '2023. 03.) 제네시스 통합 iOS앱 신규 개발
   - ('2020. 04. ~ '2022. 07.) 현대자동차 Connected Car Service iOS앱 개발 및 운영
 
 - 협업 프로젝트
-  - ('2023. 03. ~ ing) YAPP 22기, [Coffice iOS앱](https://apps.apple.com/kr/app/coffice/id6450617682) 개발 및 운영
+  - ('2023. 03. ~) YAPP 22기, [Coffice iOS앱](https://apps.apple.com/kr/app/coffice/id6450617682) 개발 및 운영
   - ('2022. 07. ~) 코인 재테크 정보 제공 서비스, [톰비트 iOS앱](https://apps.apple.com/vn/app/%ED%86%B0%EB%B9%84%ED%8A%B8/id1635148853) 개발 및 운영
   - ('2019. 09 ~ '2020. 03.) Prography 5기, Fash iOS앱 개발 및 운영 (배포 중단)
 
