@@ -28,7 +28,8 @@
 ## Activity
 
 - Work Experience
-  - ('2023. 03. ~) iOS Engineer at [Bucketplace](https://github.com/bucketplace)
+  - ('2025. 12. ~) iOS Engineer at NAVER WEBTOON
+  - ('2023. 03. ~ '2025. 12.) iOS Engineer at [Bucketplace](https://github.com/bucketplace)
   - ('2022. 07. ~ '2023. 03.) iOS Engineer at Hyundai Motor Group
 
 - 협업 프로젝트
